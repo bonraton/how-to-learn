@@ -1,8 +1,8 @@
 .video__iframes {
-    margin-right: auto;
     margin: 0 auto 0 auto;
     width: 1050px; /* знаем ширину video_iframe. умножаем её на 2 + 20px отступ между блоками */
     display: flex;
     justify-content: space-between;
     transform: translate(0, 50px);  /*задаем отступ 50px от подзаголовка */
+    list-style: none;
 }
