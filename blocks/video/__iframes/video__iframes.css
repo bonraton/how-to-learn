@@ -1,5 +1,6 @@
 .video__iframes {
     margin: 0 auto 0 auto;
+    padding: 0;
     width: 1050px; /* знаем ширину video_iframe. умножаем её на 2 + 20px отступ между блоками */
     display: flex;
     justify-content: space-between;
