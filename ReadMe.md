@@ -1,16 +1,18 @@
-# **Научиться учиться. Проектная работа 2** 
+# How to learn. 
+> 2th project on [Yandex.Practikum](https://practicum.yandex.ru/profile/web/) Web-development course.
 
-## **Описание проектной работы. Используемые технологии** 
+# Description
+Landing with short advises to better learn.
   
-В проекте использованы следующие технологии: 
-- Использование Flexbox верстки.
-- Позиционирование элементов. 
-- Использование API.
-- Анимация.
-- Классификация и организация файлов по БЭМ.   
+# Techs
+- Flexbox
+- Animation
+- Nested BEM
+- Youtube API.
 
- 
-[Ссылка на проект](https://bonraton.github.io/how-to-learn/)
+#Links
+[layout](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf) 
+[Link to project](https://bonraton.github.io/how-to-learn/)
 
 
 
