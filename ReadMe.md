@@ -1,5 +1,5 @@
 # How to learn. 
-> 2th project on [Yandex.Practikum](https://practicum.yandex.ru/profile/web/) Web-development course.
+> 2th project on [Yandex.Praktikum](https://practicum.yandex.ru/profile/web/) Web-development course.
 
 # Description
 Landing with short advises to better learn.
