@@ -1,4 +1,4 @@
-# How to learn. 
+# [How to learn](https://bonraton.github.io/how-to-learn/). 
 > 2th project on [Yandex.Praktikum](https://practicum.yandex.ru/profile/web/) Web-development course.
 
 # Description
